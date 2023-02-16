@@ -18,3 +18,8 @@ Welcome to my profile!
 - ⚡ I'm interested in the future of Artificial Intelligence and how it shapes our life in the near future. 
 - 🌱 I'm investing time early to adapt for the future mentioned in ^  
 - 😄 Opened to connecting with any fellow AI geek! :)  
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
