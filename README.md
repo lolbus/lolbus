@@ -20,6 +20,6 @@ Welcome to my profile!
 - 😄 Opened to connecting with any fellow AI geek! :)  
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gwteng/)
+[![Linkedin](https://raw.githubusercontent.com/lolbus/lolbus/main/linkedinpic.png) LinkedIn](https://www.linkedin.com/in/gwteng/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lolbus) 
+[![GitHub](https://raw.githubusercontent.com/lolbus/lolbus/main/githubpic.png) GitHub](https://github.com/lolbus) 
