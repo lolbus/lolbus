@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my profile!  
+- ⚡ I'm interested in the future of Artificial Intelligence and how it shapes our life in the near future. 
+- 🌱 I'm investing time early to adapt for the future mentioned in ^  
+- 😄 Opened to connecting with any fellow AI geek! :)  
